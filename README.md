@@ -1,5 +1,4 @@
 TODO-лист.
-Тестовое задание для WomanUp.
 
 GitHub page - https://viktoriamikhaylovskaya.github.io/woman-up-test/
 
